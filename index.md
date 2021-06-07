@@ -1,8 +1,6 @@
 ---
 title: Keith Goh
-feature_text: |
-  ## Keith Goh
-  My Portfolio Site
+
 feature_image: "https://drive.google.com/uc?export=view&id=1hwjQBh6t8bUE6_4SKxvxprLrtafKvw9K"
 excerpt: "Keith's Portfolio Site"
 ---
