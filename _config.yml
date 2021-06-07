@@ -68,7 +68,7 @@ collections:
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
       Welcome to the blog
-    feature_image: "/assets/pictures/photo_2021-02-04_11-38-54.jpg"
+    feature_image: "/assets/logo/1x/main.png"
 
 # 6. Jekyll collections settings
 defaults:
@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Alembic" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logo/SVG/Asset 1.svg" # Site logo, also used in jekyll-seo-tag
 description: "Keith Portfolio" # Site description and default description, also used in jekyll-seo-tag
 url: "https://silentfatez.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
