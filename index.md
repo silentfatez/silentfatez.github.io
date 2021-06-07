@@ -9,3 +9,5 @@ Hello! I am a Final Year Data Analytics student from Singapore University of Tec
 
 {% include button.html text="My Github" icon="github" link="https://github.com/silentfatez" color="#0366d6" %} {% include button.html text="My Linkedin" icon="linkedin" link="https://www.linkedin.com/in/keith-goh-gd/" color="#f68140" %}
 
+
+![](assets\pictures\IMGP1288_1 (1).jpg)

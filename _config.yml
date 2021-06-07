@@ -68,7 +68,7 @@ collections:
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
       Welcome to the blog
-    feature_image: "https://drive.google.com/uc?export=view&id=1hwjQBh6t8bUE6_4SKxvxprLrtafKvw9K"
+    feature_image: "/assets/pictures/photo_2021-02-04_11-38-54.jpg"
 
 # 6. Jekyll collections settings
 defaults:
