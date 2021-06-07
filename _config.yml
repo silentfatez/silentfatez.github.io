@@ -68,7 +68,7 @@ collections:
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
       Welcome to the blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "https://drive.google.com/uc?export=view&id=1hwjQBh6t8bUE6_4SKxvxprLrtafKvw9K"
 
 # 6. Jekyll collections settings
 defaults:
@@ -98,8 +98,8 @@ logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+repo: "https://github.com/silentfatez/silentfatez.github.io"
+email: "keithgoh2109@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # google_analytics_anonymize_ip: ''
@@ -121,16 +121,16 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+# - title: Elements
+#   url: /elements/
+# - title: Blog
+#   url: /blog/
+# - title: Categories
+#   url: /categories/
+# - title: Search
+#   url: /search/
+# - title: Fork Alembic
+#   url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
 - title: Created by David Darnes
