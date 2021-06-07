@@ -11,3 +11,6 @@ Hello! I am a Final Year Data Analytics student from Singapore University of Tec
 
 
 ![](assets\pictures\IMGP1288_1.jpg)
+
+## Projects
+Here are some of the projects that I have worked on
