@@ -133,8 +133,8 @@ navigation_header:
 #   url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-# - title: Created by David Darnes
-#   url: https://darn.es
+- title: Repo for Site
+  url: https://github.com/silentfatez/silentfatez.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   # Twitter: https://twitter.com/DavidDarnes
