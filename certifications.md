@@ -19,18 +19,25 @@ Basic Data Science course that runs through the methodology of data science thro
 A certificate to show my proficiency with Tensorflow to do ML projects
 
 * Natural Language Processing (50.040)
+
 Natural Language Processing Course where we learn techniques to deal with text problems
 * The Analytical Edge(40.220)
+
 Practical course on Data Science where we practice Data Science Skills
 * Statistical Machine Learning (01.113)
+
 Machine Learning Course where we are exposed to an overview of Machine Learning
 * Artificial Intelligence (50.021)
+
 Artificial Intelligence course where we try to mimic intelligent programming
 * Data and Business Analytics (40.011)
+
 Data and Business Analytics Course
 * Statistics (40.004)
+
 Course on Statistics
 * Probability (40.001)
+
 Course on Probability
 ## Project Management
 * Google Project Management Certificate [Click here to view Certification](https://www.credly.com/badges/86038e1e-27ba-4f9f-b4e4-32a27efb0e1d?source=linked_in_profile) 
@@ -49,10 +56,13 @@ A certificate to show my knowledge of basic GCP tools and how they work together
 A course that goes through the basic functionality of the Bloomberg terminal and exposes us to it's functionality
 
 * Investment Science (40.240)
+
 Course where we are exposed to the basics of investing
 * Equity Valuation (40.323)
+
 Course where we are exposed to damadoran's methodology of valuing firms and use first order principles to value firms
 * Derivative Pricing & Risk Management (40.242)
+
 Course where we are exposed to derivatives and how they are valued.
 
 ## Additional
