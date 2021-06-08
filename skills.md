@@ -19,6 +19,7 @@ aside: true
 * Matlab
 * Scikit-learn
 * React.js
+* Seaborn
 
 ## Proj Management
 * Agile
