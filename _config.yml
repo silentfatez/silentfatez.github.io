@@ -21,6 +21,9 @@ exclude:
 - Gemfile.lock
 - alembic-jekyll-theme.gemspec
 - .jekyll-cache
+- categories.md
+- elements.md
+- thanks.md
 
 # 2. Installed Gems
 plugins:
@@ -61,14 +64,14 @@ excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
 
 # 5. Collections
-collections:
-  posts:
-    title: Posts # Needed for Siteleaf
-    output: true
-    description: "My thoughts and ideas" # The post list page content
-    feature_text: |
-      Welcome to the blog
-    feature_image: "/assets/logo/1x/main3.png"
+# collections:
+#   posts:
+#     title: Posts # Needed for Siteleaf
+#     output: true
+#     description: "My thoughts and ideas" # The post list page content
+#     feature_text: |
+#       Welcome to the blog
+#     feature_image: "/assets/logo/1x/main3.png"
 
 # 6. Jekyll collections settings
 defaults:
@@ -77,12 +80,12 @@ defaults:
       path: ""
     values:
       image: "/assets/default-social-image.png" # Default image for sharing
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post # Set the default layout for posts
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "posts"
+  #   values:
+  #     layout: post # Set the default layout for posts
   -
     scope:
       path: ""
@@ -121,14 +124,18 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-# - title: Elements
-#   url: /elements/
+- title: Skills
+  url: /skills/
+- title: Certifications
+  url: /certifications/
+- title: Hobbies
+  url: /hobbies/
 # - title: Blog
 #   url: /blog/
 # - title: Categories
 #   url: /categories/
-- title: Search
-  url: /search/
+# - title: Search
+#   url: /search/
 # - title: Fork Alembic
 #   url: https://github.com/daviddarnes/alembic
 
