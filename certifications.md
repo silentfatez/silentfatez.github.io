@@ -24,7 +24,7 @@ Natural Language Processing Course where we learn techniques to deal with text p
 * The Analytical Edge(40.220)
 
 Practical course on Data Science where we practice Data Science Skills
-* Statistical Machine Learning (01.113)
+* Statistical Machine Learning (40.319)
 
 Machine Learning Course where we are exposed to an overview of Machine Learning
 * Artificial Intelligence (50.021)

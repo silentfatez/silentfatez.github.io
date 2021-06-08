@@ -79,7 +79,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/pictures/photo_2021-06-09_01-07-29.jpg" # Default image for sharing
+      image: "/assets/pictures/IMGP1288_1 (1).jpg" # Default image for sharing
   # -
   #   scope:
   #     path: ""
